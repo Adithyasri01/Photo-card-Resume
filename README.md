@@ -597,8 +597,8 @@
         <!-- Main Content -->
         <main class="main-content">
             <header class="header-section">
-                <h2 class="role-title">MSc Artificial Intelligence | Data Analyst</h2>
-                <p class="tagline">Results-driven Data Analyst with 4+ years of experience transforming complex datasets into actionable business insights. Currently pursuing MSc in Data Science & AI at University of East London. Specialist in Explainable AI, predictive analytics, and business intelligence solutions that drive strategic decision-making.</p>
+                <h2 class="role-title">MSc Artificial Intelligence and Data Science| Data Analyst</h2>
+                <p class="tagline">Results-driven Data Analyst with 4+ years of experience transforming complex datasets into actionable business insights. Currently pursuing MSc in AI and Data Science at University of East London. Specialist in Explainable AI, predictive analytics, and business intelligence solutions that drive strategic decision-making.</p>
             </header>
 
             <section class="section">
@@ -680,7 +680,7 @@
                     <div class="edu-item">
                         <div class="edu-icon">🎓</div>
                         <div class="edu-details">
-                            <h4>MSc Data Science and Artificial Intelligence</h4>
+                            <h4>MSc Artificial Intelligence and Data Science</h4>
                             <p>University of East London, UK</p>
                         </div>
                         <span class="edu-status pursuing">Pursuing</span>
